@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/f4--test-Social-Media-App/static/css/main.85de6147.css",
+    "main.js": "/f4--test-Social-Media-App/static/js/main.41b48dec.js",
+    "index.html": "/f4--test-Social-Media-App/index.html",
+    "main.85de6147.css.map": "/f4--test-Social-Media-App/static/css/main.85de6147.css.map",
+    "main.41b48dec.js.map": "/f4--test-Social-Media-App/static/js/main.41b48dec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85de6147.css",
+    "static/js/main.41b48dec.js"
+  ]
+}
